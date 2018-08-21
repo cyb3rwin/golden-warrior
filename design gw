@@ -1,0 +1,32 @@
+-> character
+-> name, job (knight(str->one by one)/(Warrior str kecil-> sering))
+-> combat attack/kabur, defense(restore HP), item (potion(hp)/grape juice(mp))
+-> skill status -> str, agi, dex, int
+-> str -> attack power
+-> agi -> kabur
+-> dex -> ga missed 
+
+knight
+-> power hit: 2*attackpoint
+
+warrior
+-> thousands hit: hit berkali-kali
+
+connectivity:
+-> transaksi
+
+
+print("")
+print("   ====== ")
+print("  ==                ==       ==")
+print("====                ==       ==   =====    ==  ====  ")
+print("====        ======  ==       ==  ==    =   ===    == ")
+print("====    ==  =   ==  ==   ======  =======   ==     == ")
+print(" ===     =  =   ==  ==  ==    =  =         ==     == ")
+print("  =======   =  ===  ==   =====    =====    ==     == ")
+
+
+
+Cara Kerja:
+Bikin dulu code yang bener untuk acuan
+abis itu kita garap per part
