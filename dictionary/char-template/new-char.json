@@ -1,0 +1,20 @@
+{
+    "novice":
+    {
+        "name":"Albert",
+        "role": "novice",
+        "level":1,
+        "hp":200, 
+        "max_hp":200, 
+        "exp":90, 
+        "next_exp":100,
+        "mp":150, 
+        "max_mp":150, 
+        "str":10, 
+        "agi":1, 
+        "dex":10, 
+        "int":1, 
+        "bonus_stat":10, 
+        "attack":15
+    }
+}

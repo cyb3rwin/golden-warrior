@@ -1,0 +1,23 @@
+[
+    {
+        "name":"spore",
+        "hp":20, 
+        "attack":10, 
+        "dodge":10, 
+        "bonus_exp":10
+    },
+    {
+        "name":"king spore",
+        "hp":10, 
+        "attack":900, 
+        "dodge":50, 
+        "bonus_exp":30
+    },
+    {
+        "name":"fishman", 
+        "hp":20, 
+        "attack":5, 
+        "dodge":5, 
+        "bonus_exp":20
+    }
+]
